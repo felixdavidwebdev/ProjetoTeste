@@ -137,7 +137,7 @@ print(f"String invertida: {inverter_string(string)}")
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Félix David](https://github.com/felixwebdev).
+Desenvolvido por [Félix David](https://github.com/felixdavidwebdev).
 
 ## 📄 Licença
 
